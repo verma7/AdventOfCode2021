@@ -2,6 +2,7 @@ module Main where
 
 import Lib
 import Day1
+import Day2
 
 main :: IO ()
-main = Day1.part2
+main = Day2.part2
